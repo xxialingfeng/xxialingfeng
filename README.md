@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @xxialingfeng
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi! I am Lingfeng, a prospective Software Engineer.
+- 👀 I am currently a senior undergrad at Central China Normal University, and I am also a incoming grad student at Carnegie Mellon University.
+- 🌱 I am focusing on Algorithms, Software & Web Developments.
+- 💞️ I am OPEN to opportunities (Internships and Full-time jobs)
+- 📫 Do not hesitate to reach out! You can have more inforamtion concerning me and my work at www.xialingfeng.com.
 
-<!---
-xxialingfeng/xxialingfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
